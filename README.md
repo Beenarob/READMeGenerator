@@ -17,7 +17,7 @@ This backend node application can be installed and executed to generate a profes
 
 Users can utilize this app most easily and practically by using the node-package-manager to install this app in the parent directory of their project. Users can install it from their terminal using the following command:
 
-<span style='color: grey'>npm i @BeenaRob/READMeGenerator</span>
+<span style='color: grey'>npm i @Beenarob/READMeGenerator</span>
 
 Once installed, this application can be used to generate a high-quality professional readme as described below.
 
@@ -25,7 +25,7 @@ Once installed, this application can be used to generate a high-quality professi
 
 User's can execute this application two ways. From the command line of the parent directory of node_modules, the user can use the following code in the terminal:
 
-<span style='color: grey'>node node_modules@BeenaRob/READMeGenerator/</span>
+<span style='color: grey'>node node_modules@Beenarob/READMeGenerator/</span>
 
 This will launch the program, guiding the user through a series of questions generating a high-quality readme:
 
@@ -33,7 +33,7 @@ This will launch the program, guiding the user through a series of questions gen
 
 The user can also include the exported function directly in their code by including the following code in a script file, and then executing that script file from the command line:
 
-<span style='color: grey'>const createReadme = require('@BeenaRob/READMeGenerator'); createReadme </span>
+<span style='color: grey'>const createReadme = require('@Beenarob/READMeGenerator'); createReadme </span>
 
 For a more detailed video walkthrough, please refer to <a href="">this video</a>
 
