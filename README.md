@@ -35,15 +35,13 @@ The user can also include the exported function directly in their code by includ
 
 <span style='color: grey'>const createReadme = require('@Beenarob/READMeGenerator'); createReadme </span>
 
-For a more detailed video walkthrough, please refer to <a href="">this video</a>
-
 ## Contributing
 
 <a href="https://github.com/beenarob">github.com/beenarob</a>
 
 ## Tests
 
-The code for this application is divided into two different script files, one entitled createReadme.js that contains the Inquirer code and the code executing the functions to generate the Readme.md. The other script file, entitled generateMarkdown.js contains the code that supplies the information for Licenses, Table of Contents, and creates all md content. All are published publicly to NPM.
+The code is divided into two different script files, one entitled createReadme.js that contains the Inquirer code and the code executing the functions to generate the Readme.md. The other script file, titled generateMarkdown.js contains the code that provides the information for Licenses, Table of Contents, and creates all md content.
 
 ## Questions
 
